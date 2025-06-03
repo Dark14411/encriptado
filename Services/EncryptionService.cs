@@ -8,7 +8,7 @@ namespace EncryptionApi.Services
     public class EncryptionService
     {
         // ¡IMPORTANTE! Estas claves y IV deben ser manejadas de forma segura.
-        // Para este ejemplo, están hardcodeadas, pero en producción deberías
+        // Para este ejemplo, están hardcodeadas, pero en producción deberías.
         // generarlas aleatoriamente y almacenarlas de forma segura (ej. Azure Key Vault, HashiCorp Vault, o pasarlas de forma segura al desencriptador).
         // La clave y el IV deben ser los mismos para encriptar y desencriptar.
 
