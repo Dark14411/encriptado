@@ -1,0 +1,26 @@
+# Dependencies
+**/[Bb]in/
+**/[Oo]bj/
+**/packages/
+**/[Dd]ebug/
+**/[Rr]elease/
+
+# Visual Studio Code
+.vscode/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]uild/
+[Tt]est[Rr]esults/
+
+# Rider
+.idea/
+*.iml
+
+# Mac
+.DS_Store
